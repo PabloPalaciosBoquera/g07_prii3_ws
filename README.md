@@ -119,7 +119,7 @@ Una vez alcanzado el último punto, el nodo detiene la tortuga y finaliza el dib
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/PabloPalaciosBoquera/g07_prii3_ws.git
 ```
 
 Acceder al workspace:
